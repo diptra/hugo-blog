@@ -3,7 +3,6 @@ author = []
 categories = []
 date = 2020-11-09T17:00:00Z
 description = ""
-draft = true
 image = "/images/bingwallpaper_golden-ginkgo-leaves-xuanwu-lake-park-nanjing-jiangsu-china.jpg"
 tags = []
 title = "Harapan Hidup"
